@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👀 **I’m interested in** learning new skill sets that will benefit myself and people around me.
 - 🌱 **I’m currently learning** the art of the Computer.
 - 💞️ **I’m looking to collaborate on** many different projects that I personally am dealing with and others' projects.
-- 📫 **How to reach me:** Email me at ymoha464@mtroyal.ca
+- 📫 **How to reach me:** Email me at yuusuf01@gmail.com
 
 ## 🚀 About Me
 I'm a passionate learner and developer, diving deep into the world of technology to explore and create. With a keen interest in pushing boundaries and exploring new horizons, I am on a constant journey to learn and apply my skills in meaningful ways.
